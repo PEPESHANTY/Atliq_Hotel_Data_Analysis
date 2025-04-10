@@ -1,5 +1,7 @@
 # 🏨 AtliQ Hotels Booking Analysis – Final Report
 
+### Kaggle Link: https://www.kaggle.com/code/shantanubhute/atliq-hotels-data-analysis-project
+
 ## ✅ Project Wrap-Up Summary
 
 This repository marks the successful completion of the **AtliQ Hotels Data Analysis Project**. From loading raw datasets to drawing actionable insights, this journey involved multiple stages of data preparation, transformation, and visualization.
